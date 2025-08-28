@@ -84,7 +84,7 @@ label {
 
 input[type="text"] {
   width: 100%;
-  min-height: 44px; /* bättre för mobil */
+  min-height: 44px; 
   border: 1px solid #2a2a31;
   background: #101013;
   color: var(--text);
